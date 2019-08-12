@@ -1,0 +1,9 @@
+!SESSION 2019-04-24 15:54:45.744 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_212
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data @noDefault
+
+!ENTRY org.eclipse.equinox.p2.touchpoint.natives 2 0 2019-04-24 15:55:26.144
+!MESSAGE Could not remove temporary backup directory (it is safe to manually delete it and its contents): C:\Users\stephan\AppData\Local\Temp\DefaultProfile_2d49f4263f00_c0a8b231d323
