@@ -1,5 +1,7 @@
 #/usr/bin/bash
 
 cd win-x64
-zip -r9 ../sthdev-installer-win64.zip *
+echo "Creating sthdev-installer-win64.zip..."
+zip -rq9 ../sthdev-installer-win64.zip *
+echo "Done."
 cd ..
