@@ -3,6 +3,6 @@ branches:
    only:
       master
       
-deploy:
+script:
    provider: script
    script: bash scripts/createInstallerArchives.sh
